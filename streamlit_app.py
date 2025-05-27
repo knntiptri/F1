@@ -1,6 +1,7 @@
 import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+st.title("Formula 1:Drive to Survive")
+st.write("From roaring engines to silent strategy rooms—
+Drive to Survive takes you to the heart of Formula 1 drama.
+Witness how dreams are built—and sometimes broken—in seconds.")
+st.write("Welcome to Drive to Survive—where every second counts.")
